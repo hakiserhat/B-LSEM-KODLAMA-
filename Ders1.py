@@ -1,0 +1,6 @@
+print("      Hesap Makinesi")
+print("1-Toplama")
+print("2-çıkarma")
+print("3-çarpma")
+print("4-bölme")
+print("5-çıkış")
